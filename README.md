@@ -11,7 +11,8 @@
 
 > Size: 1920x1080\
 Open-Source Implementation of [Luscent's][3] overlay. **No elements were stolen. This is a remake. *Please [consider buying](https://gumroad.com/l/Luscent) his version!***
-<!-- <img  src="https://media.discordapp.net/attachments/641255341245333514/731843129833160704/unknown.png"  width="500">\ -->
+<img src="https://media.discordapp.net/attachments/719166092391612427/822077236437975090/unknown.png" width="500">\
+*ignore nyan3c lol*
 
 Remake by: [Dartandr][1], Modified by: [KeepSOBP][2]
 
