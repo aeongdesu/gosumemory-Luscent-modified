@@ -10,7 +10,7 @@
 - Modified pp text
 
 > Size: 1920x1080\
-Open-Source Implementation of [Luscent's][3] overlay. **No elements were stolen. This is a remake. *Please [consider buying](https://gumroad.com/l/Luscent) his version!***
+Open-Source Implementation of [Luscent's][3] overlay. **No elements were stolen. This is a remake. *Please [consider buying](https://gumroad.com/l/Luscent) his version!***\
 <img src="https://media.discordapp.net/attachments/719166092391612427/822077236437975090/unknown.png" width="500">\
 *ignore nyan3c lol*
 
