@@ -104,7 +104,7 @@ body,html{
     border-radius: 100px;
     padding: 10px 20px 10px 20px;
     position: absolute;
-    right: 600px;
+    right: 620px;
     bottom: 100px;
     color: rgba(199, 199, 199, 0.8);
     font-size: 25px;
@@ -116,6 +116,9 @@ body,html{
 }
 .ppText{
     margin-left: -10px;
+}
+.modsText{
+    margin-left: 10px;
 }
 @keyframes slide {
     0% {transform: translate(990px);}

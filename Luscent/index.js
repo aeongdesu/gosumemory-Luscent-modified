@@ -9,6 +9,7 @@ let progressChart = document.getElementById("progress")
 let currentPP = document.getElementById("ppCurent");
 let ifFC = document.getElementById("ppIfFc");
 let pp = document.getElementById("pp");
+let mods = document.getElementById("mods");
 
 socket.onopen = () => {
     console.log("Successfully Connected");
@@ -93,6 +94,11 @@ socket.onmessage = event => {
             pp.style.bottom = 100+'px'
             pp.style.color = 'rgba(199, 199, 199, 0);'
         }
+    }
+    if(data.menu.mods.str != ''){
+        let modsData = data.menu.mods.str
+        console.log(modsData)
+        mods.innerHTML = '('+modsData+')'
     }
 }
 

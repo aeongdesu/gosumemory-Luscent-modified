@@ -7,7 +7,7 @@
 - Add tempimg when no bg file in beatmap folder
 - Make progress line blur
 - Change font `Cabin` to `Varela Round`
-- Modified pp text
+- Add current mods
 
 > Size: 1920x1080\
 Open-Source Implementation of [Luscent's][3] overlay. **No elements were stolen. This is a remake. *Please [consider buying](https://gumroad.com/l/Luscent) his version!***\
